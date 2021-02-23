@@ -317,9 +317,11 @@ name:conclusion
 
 ---
 layout: true
-# Takeaway
+# Revision
 ---
 name:conclusion
+
+- 
 
 
 ---
