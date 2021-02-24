@@ -1,7 +1,7 @@
 ---
 title: ".hi-greys[Electoral Reform and Disunited Polarization]"
 subtitle: ".hi-slate[Evidence from Legislative Roll Calls]"
-author: "David Yen-Chieh Liao (Essex) & Li Tang (Birmingham)"
+author: "David Yen-Chieh Liao"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
   xaringan::moon_reader:
@@ -93,11 +93,11 @@ name:questions
 
 --
 
-- Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? 
+- Research Questions
 
---
+1. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? 
 
-- Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators' ideological positioning? 
+2. Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators' ideological positioning? 
 
 
 ---
@@ -108,25 +108,25 @@ name:puzzles
 
 &nbsp;
 
-- How electoral rules shape .hi-turquoise[legislative preference] is key to understand the theoretical development of party politics and party competition in the real world. 
+- How electoral rules shape .hi-slate[legislative preference] is key to understand the theoretical development of party politics and party competition in the real world. 
 
 --
 
-- Previous studies have envisioned a number of potential reasons that explain why legislators position themselves differently under .hi-purple[different electoral systems] (e.g. Catalinac 2017) or electoral rules in mixed member electoral systems (e.g. Batto 2012; Jun and Hix 2010; Rich 2014).
+- Previous studies have envisioned a number of potential reasons that explain why legislators position themselves differently under .hi-slate[different electoral systems] (e.g. Catalinac 2017) or electoral rules in mixed member electoral systems (e.g. Batto 2012; Jun and Hix 2010; Rich 2014).
 
 --
 
-- Recent decades saw .hi-orange[reforms of electoral systems] from SNTV to SMDs in East- Asian democracies (i.e. Japan, South Korea and Taiwan). 
+- Recent decades saw .hi-slate[reforms of electoral systems] from SNTV to SMDs in East- Asian democracies (i.e. Japan, South Korea and Taiwan). 
 
 ---
 
 &nbsp;
 
-- For example, Catalinac (2016) finds that Liberal Demo- cratic Party candidates in SMDs .hi-slate[adopted new electoral strategies] by providing programmatic policy benefits such as national security among other candidates affiliated with LDP party, reducing promise of pork barrel goods and intra-party competition. 
+- For example, Catalinac (2016) finds that Liberal Democratic Party candidates in SMDs .hi-slate[adopted new electoral strategies] by providing programmatic policy benefits such as national security among other candidates affiliated with LDP party, reducing promise of pork barrel goods and intra-party competition. 
 
 --
 
-- This finding is complementary with other research (Catalinac 2017), which estimates the ideological positions via scaling Japanese election manifestos and demonstrated that .hi-turquoise[candidates under SNTV positioned themselves against their party].
+- This finding is complementary with other research (Catalinac 2017), which estimates the ideological positions via scaling Japanese election manifestos and demonstrated that .hi-slate[candidates under SNTV positioned themselves against their party].
 
 ---
 layout: true
@@ -151,15 +151,17 @@ layout: true
 ---
 name:research-design
 
+### The Research Roadmap
+
 - First, we estimate individual legislator's ideological positions from sessional roll call votes continuously covering .hi-slate[ex-ante and ex-post periods of the reform].
 
 --
 
-- Expectation Maximization (EM) algorithm is applied to a dynamic ideal point model to estimate each legislator's position from 1992 to 2015 at a sessional frequency, where individual recursively updates her .hi-turquoise[prior of ideal point every session].
+- Expectation Maximization (EM) algorithm is applied to a dynamic ideal point model to estimate each legislator's position from 1992 to 2015 at a sessional frequency, where individual recursively updates her .hi-slate[prior of ideal point every session].
 
 --
 
-- Then, .hi-purple[inter- and intra-party distance of ideological positions] are constructed from the estimated positions.
+- Then, .hi-slate[inter- and intra-party distance of ideological positions] are constructed from the estimated positions.
 
 --
 
@@ -299,29 +301,21 @@ name:conclusion
 
 &nbsp;
 
-- Our findings suggest a phase of “.hi-slate[disunited polarization]” among .hi-turquoise[inter-party] and .hi-purple[co-partisan legislators] during the transition.
+- Our findings suggest a phase of “.hi-slate[disunited polarization]” among .hi-slate[inter-party] and .hi-slate[co-partisan legislators] during the transition.
 
 --
 
-- Empirical test results show that this switching not only .hi-turquoise[exacerbated] inter-party ideological polarization by distancing legislators’ positions from their opponents, but also .hi-purple[disunited] co-partisan legislators as their positions became more widely distributed along the ideological spectrum.
+- Empirical test results show that this switching not only .hi-slate[exacerbated] inter-party ideological polarization by distancing legislators’ positions from their opponents, but also .hi-slate[disunited] co-partisan legislators as their positions became more widely distributed along the ideological spectrum.
 
 ---
 
 &nbsp;
 
-- Although the first finding is contrary to some .hi-pink[manifesto studies] like Catalinac (2017) that SMDs reduce the inter- and intra-party polarization in countries like Japan, it is generally complementary with the study of Jang and Lin (2019)’s seminar work on Taiwan legislative roll calls over the entire period of the SNTV system. 
+- Although the first finding is contrary to some .hi-slate[manifesto studies] like Catalinac (2017) that SMDs reduce the inter- and intra-party polarization in countries like Japan, it is generally complementary with the study of Jang and Lin (2019)’s seminar work on Taiwan legislative roll calls over the entire period of the SNTV system. 
 
 --
 
 - Our paper contributes to the large body of literature of electoral reforms by adding some empirical evidence in .hi-slate[Asian democracies] and also it highlights the possibility of the ineffectiveness of using electoral reforms as means of alleviating political chaos.
-
----
-layout: true
-# Revision
----
-name:conclusion
-
-- 
 
 
 ---
