@@ -13,6 +13,6 @@
 
 ## Acknowledge 
 
-- The roll call data analyzed in this project were collected by [the Center for Legislative Studies](http://cls.idc.scu.edu.tw/), Department of Political Science Soochow University, and directed by [Profession Shiow-Duan Hawang](https://ahrccfc.weebly.com/shiow-duan-hawang.html). We appreciate the assistance in providing the data. 
+- The roll call data analyzed in this project were collected by [the Center for Legislative Studies](http://cls.idc.scu.edu.tw/), Department of Political Science Soochow University, and directed by [Dr Shiow-Duan Hawang](https://ahrccfc.weebly.com/shiow-duan-hawang.html). We appreciate the assistance in providing the data. 
 
 
